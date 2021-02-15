@@ -324,6 +324,7 @@ E8xxx
 E9xxx
 EB
 EC0
+ECC
 ECDV
 EDID
 EDK
